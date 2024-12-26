@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|c:\\users\\ximelay\\desktop\\expensetracker\\expensetracker\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|solutionrelative:expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|solutionrelative:databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CEC2451-967A-4DBE-97B5-6A6AFFE2768F}|ExpenseTracker.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowFwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:16:24.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAnwKoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:15:38.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:15:14.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\Expense.cs",
+              "RelativeDocumentMoniker": "Expense.cs",
+              "ToolTip": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\Expense.cs",
+              "RelativeToolTip": "Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:14:51.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\DatabaseManager.cs",
+              "RelativeToolTip": "DatabaseManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIBAwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:12:40.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Ximelay\\Desktop\\ExpenseTracker\\ExpenseTracker\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:03:11.059Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
