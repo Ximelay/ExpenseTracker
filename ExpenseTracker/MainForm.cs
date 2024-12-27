@@ -22,12 +22,12 @@ namespace ExpenseTracker
 
             _settings = new Settings
             {
-                MonthlyBudget = 2000 // Установите нужный бюджет
+                MonthlyBudget = 2000 // Установливаем нужный бюджет
             };
 
             _settings.BudgetExceeded += OnBudgetExceeded;
 
-            labelBudget.Text = $"Budget: {_settings.MonthlyBudget:C}";
+            labelBudget.Text = $"Бюджет: {_settings.MonthlyBudget:C}";
 
             LoadExpenses();
 
@@ -37,7 +37,7 @@ namespace ExpenseTracker
 
         private void OnBudgetExceeded(string message)
         {
-            MessageBox.Show(message, "Budget Alert", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            MessageBox.Show(message, "Превышение бюджета", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
 
         private void AddExpenseButton_Click(object sender, EventArgs e)
@@ -71,7 +71,7 @@ namespace ExpenseTracker
                 double amount;
                 if (!double.TryParse(textBoxAmount.Text, out amount))
                 {
-                    MessageBox.Show("Invalid amount. Please enter a valid number.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Неверная сумма. Введите допустимое число.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
                 string description = textBoxDescription.Text;
@@ -82,7 +82,7 @@ namespace ExpenseTracker
             }
             else
             {
-                MessageBox.Show("Please select a record to update.", "Update Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Пожалуйста, выберите запись для обновления.", "Update Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -99,7 +99,7 @@ namespace ExpenseTracker
             }
             else
             {
-                MessageBox.Show("Please select a record to delete.", "Delete Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Пожалуйста, выберите запись для удаления.", "Delete Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 

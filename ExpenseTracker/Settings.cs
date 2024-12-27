@@ -16,7 +16,7 @@ namespace ExpenseTracker
         {
             if (totalExpenses > MonthlyBudget)
             {
-                BudgetExceeded?.Invoke($"Warning: You have exceeded your budget of {MonthlyBudget:C}!");
+                BudgetExceeded?.Invoke($"Предупреждение: Вы превысили свой бюджет {MonthlyBudget:C}!");
             }
         }
     }

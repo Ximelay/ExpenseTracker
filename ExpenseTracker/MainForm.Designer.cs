@@ -99,7 +99,7 @@
             this.buttonAddExpense.Name = "buttonAddExpense";
             this.buttonAddExpense.Size = new System.Drawing.Size(75, 23);
             this.buttonAddExpense.TabIndex = 4;
-            this.buttonAddExpense.Text = "Add Expense";
+            this.buttonAddExpense.Text = "Добавить";
             this.buttonAddExpense.UseVisualStyleBackColor = true;
             this.buttonAddExpense.Click += new System.EventHandler(this.AddExpenseButton_Click);
 
@@ -110,7 +110,7 @@
             this.buttonUpdateExpense.Name = "buttonUpdateExpense";
             this.buttonUpdateExpense.Size = new System.Drawing.Size(75, 23);
             this.buttonUpdateExpense.TabIndex = 5;
-            this.buttonUpdateExpense.Text = "Update";
+            this.buttonUpdateExpense.Text = "Обновить";
             this.buttonUpdateExpense.UseVisualStyleBackColor = true;
             this.buttonUpdateExpense.Click += new System.EventHandler(this.UpdateExpenseButton_Click);
 
@@ -121,7 +121,7 @@
             this.buttonDeleteExpense.Name = "buttonDeleteExpense";
             this.buttonDeleteExpense.Size = new System.Drawing.Size(75, 23);
             this.buttonDeleteExpense.TabIndex = 6;
-            this.buttonDeleteExpense.Text = "Delete";
+            this.buttonDeleteExpense.Text = "Удалить";
             this.buttonDeleteExpense.UseVisualStyleBackColor = true;
             this.buttonDeleteExpense.Click += new System.EventHandler(this.DeleteExpenseButton_Click);
 
@@ -133,7 +133,7 @@
             this.labelCategory.Name = "labelCategory";
             this.labelCategory.Size = new System.Drawing.Size(52, 13);
             this.labelCategory.TabIndex = 7;
-            this.labelCategory.Text = "Category:";
+            this.labelCategory.Text = "Категория:";
 
             // 
             // labelAmount
@@ -143,7 +143,7 @@
             this.labelAmount.Name = "labelAmount";
             this.labelAmount.Size = new System.Drawing.Size(46, 13);
             this.labelAmount.TabIndex = 8;
-            this.labelAmount.Text = "Amount:";
+            this.labelAmount.Text = "Сумма:";
 
             // 
             // labelDescription
@@ -153,7 +153,7 @@
             this.labelDescription.Name = "labelDescription";
             this.labelDescription.Size = new System.Drawing.Size(63, 13);
             this.labelDescription.TabIndex = 9;
-            this.labelDescription.Text = "Description:";
+            this.labelDescription.Text = "Описание:";
 
             // 
             // labelBudget
@@ -163,7 +163,7 @@
             this.labelBudget.Name = "labelBudget";
             this.labelBudget.Size = new System.Drawing.Size(46, 13);
             this.labelBudget.TabIndex = 10;
-            this.labelBudget.Text = "Budget:";
+            this.labelBudget.Text = "Бюджет:";
 
             // 
             // MainForm
@@ -183,7 +183,7 @@
             this.Controls.Add(this.textBoxCategory);
             this.Controls.Add(this.dataGridViewExpenses);
             this.Name = "MainForm";
-            this.Text = "Expense Tracker";
+            this.Text = "Управление финансами";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewExpenses)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
